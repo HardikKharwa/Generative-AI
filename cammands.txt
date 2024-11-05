@@ -1,0 +1,17 @@
+open source - Llama 3.2, Orca, Mistral, etc...
+paid source - GPT 4o,GPT o1, Gemini
+
+STEP1:	pip install virtualenv
+
+STEP2:	python -m virtualenv " env "  <- (folder_name)
+
+STEP3:	OPEN POWERSHELL AND RUN AS ADMINISTRATOR AND NOW THIS TYPE
+
+Set-ExecutionPolicy unrestricted
+
+STEP4:	env\Scripts\activate.ps1
+
+pip install langchain-community
+
+
+
